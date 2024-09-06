@@ -4,10 +4,15 @@ public class UserInput {
     
         Scanner in = new Scanner(System.in);
         
-            System.out.println("soglasni uznali");
+            String input = "";
 
+                System.out.println("Type somethingd");
+        
+        //input = "Hello";
 
+        input = in.nextLine();
 
+        System.out.println("You typed " + input);
 
     }
 }
