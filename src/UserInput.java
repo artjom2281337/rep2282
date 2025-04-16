@@ -6,7 +6,7 @@ public class UserInput {
 
         int result = 0;
         
-            String input = "";
+        String input = "";
             
                 // Integer values
 
