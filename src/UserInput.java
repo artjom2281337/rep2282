@@ -10,7 +10,7 @@ public class UserInput {
             
                 // Integer values
 
-        System.out.println("10x Multiplier");
+        System.out.println("10x Multiplierrr");
 
         input = in.nextLine();
 
